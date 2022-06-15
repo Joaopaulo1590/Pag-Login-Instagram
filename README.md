@@ -1,3 +1,3 @@
-# Pag-Login-Instagram
+# Pag-Login-Instagra
 
 <img src="./img/gif.gif">
